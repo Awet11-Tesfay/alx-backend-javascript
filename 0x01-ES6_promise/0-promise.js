@@ -1,7 +1,7 @@
-function getresponseFromAPI() {
-    /* eslint-disable */
-    return new Promise((resolve, reject) => {
-        resolve();
-    });
+function getResponseFromAPI() {
+  /* eslint-disable */
+  return new Promise((resolve, reject) => {
+    resolve();
+  });
 }
-export default getresponseFromAPI;
+export default getResponseFromAPI;
