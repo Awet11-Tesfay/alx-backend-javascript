@@ -4,5 +4,4 @@ function getresponseFromAPI() {
         resolve();
     });
 }
-
 export default getresponseFromAPI;
